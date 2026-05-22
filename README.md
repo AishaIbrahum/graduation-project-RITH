@@ -1,41 +1,152 @@
-# RITH-Graduation-project
-#### (This project is not open source and its code is proprietary. The Code is set to be hidden to protect intellectual property and sensitive information.If you have any questions or inquiries, please contact  [Aisha.ibr2412@gmail.com ])
-## ABSTRACT
-Rehabilitation programs are vital for the people that suffer injuries, The Covid-19 pandemic made it impossible for these people to follow such programs at healthcare centers, This study aims to develop a new solution for patients opting instead for a Rehabilitation in the Home RITH, Include a range of exercises and activities that can be easily performed at home, The ultimate goal of the project is to improve access to rehabilitation services and the project has the potential to make a significant impact on the field of rehabilitation medicine and to improve the lives of individuals with physical problems and their families.
-## Background
-Using a camera-enabled system, we've created a module designed to assist individuals undergoing physiotherapy. This module provides prescribed exercises and aids in monitoring the execution of these exercises to ensure their accuracy. This tool serves as a supportive mechanism for patients, allowing them to engage in their prescribed physiotherapy routines with enhanced guidance and feedback, following consultations with their physiotherapists.
-Problem Overview
+# 🏥 RITH – Rehabilitation in the Home
 
-## Problem overview
-Difficulty in providing the cost of physiotherapy, especially for patients who need long- term treatment, some patients cannot go to the physiotherapy clinic due to lack of transportation. People who are unable to move as a result of a medical condition. Some patients live far from physical therapy clinics.
+> **Graduation Project**  
+> This project is **not open source**, and its code is proprietary.  
+> The source code is intentionally hidden to protect intellectual property and sensitive information.  
+> For any questions or inquiries: **aisha.ibr2412@gmail.com**
 
-## Aims and Objectives
-Aim of this project is to develop a remote rehabilitation physiotherapy program that includes exercises and activities tailored to the specific needs of patients that will allow each affected patient to get the necessary rehabilitation, And the most important thing is to reduce healthcare costs by providing more cost-effective solutions for patients and the effort for healthcare providers.
+---
 
-## Objectives
-1-create a user-friendly remote physiotherapy platform that allows patients to access physiotherapy services from their homes. 2-provide accessible and convenient physical therapy services to patients who may have difficulty accessing in-person care, such as those who live in remote areas, have mobility limitations. 3-Ensure that the patient is performing the exercises correctly by providing direct feedback Messages.
+# 🌟 Project Overview
 
-## METHODOLOGY
-### system design
+**RITH (Rehabilitation in the Home)** is an intelligent rehabilitation support system designed to help patients continue physiotherapy programs remotely from home.
 
-<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/d14ab1c8-c6be-408f-b63b-d90fd15dc026" alt="image description" width="400">
+The project was developed to solve challenges faced by patients who cannot regularly visit healthcare centers, especially during situations such as the COVID-19 pandemic, mobility limitations, transportation issues, or long-distance travel barriers.
 
-<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/18926a31-9b80-40aa-9df9-5eeb04b52e29" alt="image description" width="400">
+The system supports patients through guided rehabilitation exercises, monitoring, and feedback to improve recovery outcomes and accessibility to physiotherapy services.
 
-## System testing
+---
 
-<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/62348aa9-5fbc-4c80-a8f4-86796ec1309e" alt="image description" width="400">
+# 🎯 Problem Statement
 
-<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/c11f686a-7127-4293-ab90-8c1574ba9160" alt="image description" width="400">
+Many patients face major barriers in accessing physiotherapy services, including:
 
-<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/9b69355e-5086-4796-a5c3-df1a1229d836" alt="image description" width="400">
+- High physiotherapy treatment costs  
+- Long-term rehabilitation requirements  
+- Limited transportation availability  
+- Physical disabilities or mobility restrictions  
+- Living far from rehabilitation centers  
+- Difficulty attending regular in-person sessions  
 
-## scientific poster:
+These challenges can negatively affect recovery speed and treatment effectiveness.
 
-<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/dd8d709f-aacd-47f4-a1ef-1decf4ef6223" alt="image description" width="400">
+---
 
-## demo (Click on logo to watch the video):
+# 🎯 Aim of the Project
 
+To develop a **remote rehabilitation physiotherapy platform** that enables patients to perform prescribed exercises safely from home while improving access to healthcare services and reducing treatment costs.
 
-[<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/2c8dde4e-597d-48e7-b291-15f70a7b7b21" width= "50%">](https://youtu.be/Vh7x3JBNJgM?si=VtswpqpoRl7VpBzi)
+---
 
+# ✅ Objectives
+
+- Build a user-friendly remote physiotherapy platform  
+- Allow patients to access rehabilitation services from home  
+- Support patients with mobility limitations  
+- Help people living in remote areas receive treatment  
+- Monitor exercise execution accuracy  
+- Provide instant feedback messages during exercise sessions  
+- Improve rehabilitation accessibility  
+- Reduce healthcare costs for patients and providers  
+
+---
+
+# ⚙️ System Features
+
+### 📷 Camera-Based Monitoring
+- Uses a camera-enabled system to detect body movement
+
+### 🏃 Exercise Guidance
+- Displays prescribed rehabilitation exercises
+
+### ✔️ Motion Tracking
+- Monitors exercise performance
+
+### 🔔 Instant Feedback
+- Provides direct correction messages if movement is incorrect
+
+### 🏠 Home Rehabilitation Support
+- Allows physiotherapy programs without visiting clinics
+
+### 👨‍⚕️ Physiotherapist Assistance
+- Supports treatment after consultation with healthcare professionals
+
+---
+
+# 🧠 Background
+
+Using a camera-enabled intelligent monitoring system, the project helps patients undergoing physiotherapy by guiding them through prescribed exercises and ensuring correct execution.
+
+This provides patients with better support, increased independence, and safer rehabilitation practices at home.
+
+---
+
+# 🏗️ Methodology
+
+## System Design
+
+<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/d14ab1c8-c6be-408f-b63b-d90fd15dc026" width="500"/>
+
+<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/18926a31-9b80-40aa-9df9-5eeb04b52e29" width="500"/>
+
+---
+
+# 🧪 System Testing
+
+<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/62348aa9-5fbc-4c80-a8f4-86796ec1309e" width="500"/>
+
+<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/c11f686a-7127-4293-ab90-8c1574ba9160" width="500"/>
+
+<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/9b69355e-5086-4796-a5c3-df1a1229d836" width="500"/>
+
+---
+
+# 📊 Technologies Used
+
+- Computer Vision  
+- Camera-Based Motion Tracking  
+- Rehabilitation Monitoring System  
+- Human Movement Detection  
+- Intelligent Feedback System  
+- Software Engineering Principles  
+- UI/UX Design  
+- Healthcare Support Technology  
+
+---
+
+# 📈 Expected Impact
+
+This project can significantly improve rehabilitation accessibility by:
+
+- Reducing dependence on physical healthcare centers  
+- Supporting patients with movement disabilities  
+- Lowering healthcare costs  
+- Improving exercise accuracy  
+- Enhancing recovery efficiency  
+- Supporting families and caregivers  
+- Expanding healthcare accessibility remotely  
+
+---
+
+# 🧾 Scientific Poster
+
+<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/dd8d709f-aacd-47f4-a1ef-1decf4ef6223" width="500"/>
+
+---
+
+# 🎥 Project Demo
+
+Click the image below to watch the demonstration video:
+
+[<img src="https://github.com/AishaIbrahum/Advanced-Database-Design-and-Implementation-of-a-Blood-Bank-Management-System/assets/143902740/2c8dde4e-597d-48e7-b291-15f70a7b7b21" width="50%">](https://youtu.be/Vh7x3JBNJgM?si=VtswpqpoRl7VpBzi)
+
+---
+
+# 👩‍💻 Developed By
+
+**Aisha Ibrahim**  
+📧 aisha.ibr2412@gmail.com
+
+---
+
+⭐ **RITH – Rehabilitation in the Home** provides an accessible, intelligent, and cost-effective remote physiotherapy solution that helps improve patient recovery and expands healthcare accessibility beyond traditional rehabilitation centers.
