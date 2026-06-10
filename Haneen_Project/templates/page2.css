@@ -1,0 +1,130 @@
+.Rith{
+    margin-top: -0.5%;
+    /* background-color: #F7FAFC; */
+}
+.menu{
+    display: flex;
+    margin-top: -1%;
+}
+.home{
+    margin-left: 200%;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.home:hover{
+    cursor: pointer;
+}
+.about{
+    margin-left: 400%;
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+}
+.about:hover{
+    cursor: pointer;
+}
+ 
+.gifL{
+    margin-top: -45%;
+    height: 50rem;
+    margin-left: -48%;
+}
+.gifR{
+    height: 50rem;
+    margin-right: -47%;
+    margin-bottom: -52.2%;
+}
+.play{
+    height: 2rem;
+    width: 2rem;
+    margin-left: 35%;
+    margin-top: -15%;
+}
+.play:hover{
+    cursor: pointer;
+}
+.play1{
+    background-color: white;
+    border: none;
+    margin-left: 35%;
+}
+.card-1{
+    width: 15rem;
+    border-style: solid;
+     border-color: #ffffff; 
+    background-color: #ffffff;
+    border-width: 1.2px;
+    border-radius: 3%;
+    height: 15rem;
+    margin-left: 16%;
+    margin-top: 5%;
+}
+.card-2{
+    width: 15rem;
+    border-style: solid;
+     border-color: #ffffff; 
+    background-color: #ffffff;
+    border-width: 1.2px;
+    border-radius: 3%;
+    height: 19rem;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.card-3{
+    width: 15rem;
+    border-style: solid;
+    border-color: #ffffff; 
+    background-color: #ffffff;
+    border-width: 1.2px;
+    border-radius: 3%;
+    height: 19rem;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.asan-1{
+    width: 11rem;
+    height: 11rem;
+    margin-left: 13%;
+}
+
+.asan-para-1{
+    margin-top: 5%;
+    margin-left: 2%;
+    font-size: 0.8rem;
+    font-weight: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+.asan-name-1{
+    margin-top: -1%;
+    margin-left: 2%;
+    font-family: 'Roboto', sans-serif;
+}
+.group-1{
+    display: flex;
+    margin-top: -0.8%;
+}
+.group-2{
+    display: flex;
+}
+
+.go {
+    height: 3rem;
+    width: 9rem;
+
+    margin-top: 3%;
+    background-color: #c58a74;
+    border-radius: 0.5rem;
+    color: white;
+    box-shadow: inset 0 0 0 0;
+    transition: ease-out 0.3s;
+    font-family: "Roboto Mono", monospace;
+  }
+
+  .go:hover {
+    cursor: pointer;
+    box-shadow: inset 207px 0 0 0 #7b9dcf;
+    color: #040c18;
+  }
+  h5 a {
+    color: #070707;
+    text-decoration: none;
+   } 
